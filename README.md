@@ -1,4 +1,4 @@
-# wikipedia-us-revenue-scrape
+
 A streamlined Python pipeline that handles raw data ingestion by bypassing default server blocks, then extracts, cleans, and structures the Top 100 US Companies data from Wikipedia into a ready-to-use CSV file.
 
 # Wikipedia US Corporate Revenue Scraper 
@@ -20,3 +20,6 @@ Every time you run that, Pandas has to rebuild the entire DataFrame in your RAM 
 ## 📂 Repository Contents
 * `us_revenue_scraper.ipynb` - The documented Jupyter Notebook with the live cells.
 * `companies.csv` - The final, clean dataset exported with index counters turned off.
+* 
+## 📊 Final Structured Output Matrix
+![Final Scraped DataFrame](data_ingestion_project_visual.png)
