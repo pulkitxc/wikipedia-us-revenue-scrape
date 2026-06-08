@@ -1,6 +1,4 @@
 
-A streamlined Python pipeline that handles raw data ingestion by bypassing default server blocks, then extracts, cleans, and structures the Top 100 US Companies data from Wikipedia into a ready-to-use CSV file.
-
 # Wikipedia US Corporate Revenue Scraper 
 
 Most tutorials teach you how to write slow code that freezes your machine the second you scale it. I built this lightweight Python pipeline to pull the top 100 US companies by revenue from Wikipedia, clean the raw HTML junk, and dump it straight into a structured CSV without the lag.
